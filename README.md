@@ -1,2 +1,2 @@
 # sorting-example
-Adding the highest price item to the the cart in a retail website
+Adding the highest price item to the cart in a retail website
